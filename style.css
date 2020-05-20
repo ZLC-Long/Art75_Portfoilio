@@ -27,6 +27,7 @@ body {
   z-index: -999; /*order send to back*/
 }
 
+
 h1 {
   color: #fff;
   padding: 45px;
@@ -81,4 +82,8 @@ footer a {
 
 .icon {
   padding: 20px;
+}
+
+div a{
+  color:#ff9900;
 }
